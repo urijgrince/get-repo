@@ -1,6 +1,6 @@
 Public class World{
 	 public static void main (String[] args){
-	System.out.Println("Helo World");
+	System.out.Println("Helo World!");
 
 	}
 }
