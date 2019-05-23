@@ -1,6 +1,7 @@
 Public class World{
 	 public static void main (String[] args){
-	System.out.Println("Helloooooo");
+	System.out.Println("Hello");
+	System.out.Println("Hello my dear friend :::::");
 
 	}
 }
